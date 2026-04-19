@@ -4,7 +4,7 @@ customers are most likely to order from given the customer location, restaurant 
 customer order history. 
 
 
-- ##Dataset Overview: 
+- ## Dataset Overview: 
 There are 9768 customers in the test set. These are the customers you will need to recommend a 
 vendor to. Each customer can order from multiple locations (LOC_NUM). 
 There are 34674 customers in the train set. Some of these customers have made orders at least one of 
